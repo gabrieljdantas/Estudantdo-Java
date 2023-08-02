@@ -1,3 +1,5 @@
+package aula2608;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 

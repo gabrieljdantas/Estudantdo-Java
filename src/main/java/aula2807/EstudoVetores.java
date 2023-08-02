@@ -1,3 +1,5 @@
+package aula2807;
+
 import java.util.Scanner;
 
 public class EstudoVetores {

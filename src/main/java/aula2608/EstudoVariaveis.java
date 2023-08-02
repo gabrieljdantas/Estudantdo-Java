@@ -1,3 +1,5 @@
+package aula2608;
+
 public class EstudoVariaveis {
     //Variavel = container de dados
     //fortemente tipada

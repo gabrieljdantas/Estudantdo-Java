@@ -1,3 +1,5 @@
+package aula2807;
+
 public class EstudoStrings {
     public static void main(String[] args) {
         String java = "Java";
